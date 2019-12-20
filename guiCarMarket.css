@@ -1,0 +1,29 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 07.11.2019, 12:21:03
+    Author     : erkan.degirmenci
+*/
+body{
+    font-family: Arial, Helvetica;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+td.dropdown select{
+    text-align: center;
+    min-width: 170px;
+}
+
+.wrapper{
+    text-align: center;
+}
+
+.button {
+    top: 50%
+}
